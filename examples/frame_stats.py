@@ -2,6 +2,7 @@ import glob
 import os
 import sys
 import ftrace
+import argparse
 from ftrace import Ftrace, Interval
 from pandas import Series
 
